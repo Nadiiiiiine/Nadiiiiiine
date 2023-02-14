@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Nadine
-![octocat-1659951846096](https://user-images.githubusercontent.com/39961879/183405498-5e5b534f-3649-4c1e-9d6b-86d3748c8247.png)
 
 <!--
+![octocat-1659951846096](https://user-images.githubusercontent.com/39961879/183405498-5e5b534f-3649-4c1e-9d6b-86d3748c8247.png)
+
+
 **Nadiiiiiine/Nadiiiiiine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
