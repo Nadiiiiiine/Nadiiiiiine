@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Nadine
 
 <!--
+
 ![octocat-1659951846096](https://user-images.githubusercontent.com/39961879/183405498-5e5b534f-3649-4c1e-9d6b-86d3748c8247.png)
 
 
@@ -16,10 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
-<h3 align="center">A passionate frontend developer</h3>
+
+<h3 align="center">A passionate data enthousiste </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiiiiiine&label=Profile%20views&color=0e75b6&style=flat" alt="nadiiiiiine" /> </p>
 
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/nadinelayeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadinelayeb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nadiiiiiine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nadiiiiiine" height="30" width="40" /></a>
 </p>
+-->
 <h2 align="left">Skills</h2>
 
 
