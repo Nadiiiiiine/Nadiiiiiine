@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">A passionate data enthousiste </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiiiiiine&label=Profile%20views&color=0e75b6&style=flat" alt="nadiiiiiine" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadiiiiiine" alt="nadiiiiiine" /></a> </p>
-
 - 📫 How to reach me **nadinelayeb@gmail.com**
 
 - 📄 Know about my experiences [here](here)
@@ -39,6 +33,15 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/nadiiiiiine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nadiiiiiine" height="30" width="40" /></a>
 </p>
 -->
+
+
+
+<h3 align="center">Data enthousiaste </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiiiiiine&label=Profile%20views&color=0e75b6&style=flat" alt="nadiiiiiine" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadiiiiiine" alt="nadiiiiiine" /></a> </p>
+
 <h2 align="left">Skills</h2>
 
 
