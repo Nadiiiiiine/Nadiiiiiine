@@ -1,5 +1,11 @@
 ### Hi there 👋, I'm Nadine
+- 👩🏻‍💻 Enthusiast ✨ about data world: the decision making, analysing and interpreting large datasets to retrieve insight and improve performance, am interested in several field such as medical and health ⚕️, Finance 📈 and real estate 🏠
+I have experience in Data integration, data visualisation 📊, machine / deep learning , web developpememnt 
+I am skilled in Python 🐍 R and SQL
 
+- 📫 How to reach me: nadinelayeb@gmail.com
+
+- 
 <!--
 
 ![octocat-1659951846096](https://user-images.githubusercontent.com/39961879/183405498-5e5b534f-3649-4c1e-9d6b-86d3748c8247.png)
@@ -36,7 +42,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">Data enthousiaste </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiiiiiine&label=Profile%20views&color=0e75b6&style=flat" alt="nadiiiiiine" /> </p>
 
